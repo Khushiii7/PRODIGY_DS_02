@@ -1,0 +1,1 @@
+This project involves data cleaning, analysis, and exploratory data analysis (EDA) on the Titanic dataset from Kaggle. The goal is to understand the dataset better, clean the data, and extract meaningful insights.
